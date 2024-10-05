@@ -1,6 +1,7 @@
 matplotlib
 scikit-image
 yacs
+cmake
 lycon
 natsort
 h5py
