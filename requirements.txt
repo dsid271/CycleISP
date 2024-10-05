@@ -1,0 +1,11 @@
+# Specify the required Python version in runtime.txt
+runtime.txt: python-3.7
+
+# List of other dependencies
+matplotlib
+scikit-image
+yacs
+lycon
+natsort
+h5py
+tqdm
